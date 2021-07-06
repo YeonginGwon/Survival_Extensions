@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="SV">
+    <output-path>$USER_HOME$/Desktop/바탕화면2/마인크래프트/새 폴더/plugins</output-path>
+    <root id="archive" name="SV.jar">
+      <element id="module-output" name="Survival Extensions" />
+    </root>
+  </artifact>
+</component>

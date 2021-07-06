@@ -1,0 +1,10 @@
+main: io.github.yeongin.Main
+name: Survival_Extensions
+version: 0.1
+api-version: 1.17
+
+commands:
+  gamble:
+    description: 도박창 열기
+    usage: /<command>
+  gamble_item:
